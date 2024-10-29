@@ -1,6 +1,3 @@
 ### Hello! 👋
-I am a backend developer
-I love creating
-I am currently learning Python
-I also like to experiment with other things, like C#, Discord.js, making mods, automations, etc.
+I'm a backend developer who loves to create. I'm currently learning Python and enjoy experimenting with other technologies, such as C#, Discord.js, and developing mods and automations.
 [Website](https://www.silvamiguel.com)
